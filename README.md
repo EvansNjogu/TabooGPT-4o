@@ -3,8 +3,7 @@
 *A GPT-4 fine-tuned model built to play **Taboo: The Unspeakable Fun Game,** intelligently and creatively.*
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
+[![Python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 ![GPT Model](https://img.shields.io/badge/Model-GPT--4o-purple)
 
 ## Overview
