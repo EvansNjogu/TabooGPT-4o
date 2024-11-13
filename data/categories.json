@@ -1,0 +1,66 @@
+{
+  "de": {
+    "animals": {
+      "text": "Tiere"
+    },
+    "cars": {
+      "text": "Fahrzeuge"
+    },
+    "city-country": {
+      "text": "Städte & Länder"
+    },
+    "food": {
+      "text": "Essen & Trinken"
+    },
+    "literature": {
+      "text": "Literatur"
+    },
+    "people": {
+      "text": "Berühmte Personen"
+    },
+    "sports": {
+      "text": "Sport"
+    },
+    "things": {
+      "text": "Dinge & Geräte"
+    },
+    "tv": {
+      "text": "Filme, Serien & TV"
+    },
+    "web": {
+      "text": "Das Internet"
+    }
+  },
+  "en": {
+    "animals": {
+      "text": "Animals"
+    },
+    "cars": {
+      "text": "Cars"
+    },
+    "city-country": {
+      "text": "Cities & Countries"
+    },
+    "food": {
+      "text": "Food & Cooking"
+    },
+    "literature": {
+      "text": "Literature"
+    },
+    "people": {
+      "text": "Famous People"
+    },
+    "sports": {
+      "text": "Sports"
+    },
+    "things": {
+      "text": "Everyday Things"
+    },
+    "tv": {
+      "text": "Movies & TV Shows"
+    },
+    "web": {
+      "text": "The Internet"
+    }
+  }
+}
